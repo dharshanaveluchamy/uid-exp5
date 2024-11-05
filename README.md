@@ -1,3 +1,9 @@
+# Output
+![image](https://github.com/user-attachments/assets/1e77a0fd-3595-4d20-8171-d26d0f8e040a)
+
+# Description
+Build a simple React counter app with increment and decrement buttons. This project demonstrates basic state management, updating a count value in real-time as users interact.It offers a clear introduction to handling state, events, and UI updates in a React application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
